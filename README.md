@@ -1,6 +1,8 @@
 # Exempelkod för VGR:s API med vaccintider
 
-Hjälp med kodexempel och olika tillämpningar mottages tacksamt!
+Hjälp med kodexempel och olika tillämpningar mottages tacksamt! 
+
+**2021-05-29: Vi tycks ha driftstörning på API:t, men nu finns en JSON-fil i *sample-data* att köra med vid behov.**
 
 ## Bakgrund
 I slutet av maj släppte VGR en testversion av öppet API för återanvändning av den JSON vi själva använder 
@@ -10,8 +12,11 @@ Lite [mer information om test-API:t finns på VGR:s utvecklingsblogg](https://vg
 ## Exempelkod
 Här kommer det fyllas på med kodexempel under kommande dagar.
 
+### Jupyter Notebooks
+Kolla antingen in jupyter-mappen här på Github eller provkör det helt utan förkunskaper eller teknikkrav på [Google Colab - klicka bara på Play-knappen](https://colab.research.google.com/drive/1O0LZNOAaMEu8FonnN6odtP7C6t7JCxhD?usp=sharing)
+
 ### Python
-*kommer snart*
+Kolla in under python-mappen här på Github. Du behöver Python 3 och ha *requests* installerat.
 
 ### Postman
 *kommer snart*
