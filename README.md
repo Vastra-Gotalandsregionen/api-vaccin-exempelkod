@@ -1,8 +1,7 @@
 # Exempelkod för VGR:s API med vaccintider
 
-Hjälp med kodexempel och olika tillämpningar mottages tacksamt! 
-
-**2021-05-29: Vi tycks ha driftstörning på API:t, men nu finns en JSON-fil i *sample-data* att köra med vid behov.**
+Hjälp med kodexempel och olika tillämpningar mottages tacksamt!  
+För att lämna issues (saker som buggar, utvecklingsönskemål, etc) koll in [repot api-vaccin](https://github.com/Vastra-Gotalandsregionen/api-vaccin/)
 
 ## Bakgrund
 I slutet av maj släppte VGR en testversion av öppet API för återanvändning av den JSON vi själva använder 
